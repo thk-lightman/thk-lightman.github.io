@@ -4,7 +4,7 @@ _asset_bundler_cache
 .jekyll-cache
 .jekyll-metadata
 .sass-cache
-*.gem
+#*.gem
 *.sublime-project
 *.sublime-workspace
 codekit-config.json
